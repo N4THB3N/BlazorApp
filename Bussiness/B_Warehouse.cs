@@ -11,7 +11,7 @@ namespace Bussiness
     public class B_Warehouse
     {
 
-        public List<WarehouseEntity> WarehouseList()
+        public static List<WarehouseEntity> WarehouseList()
         {
             using (var db = new InventaryContext())
             {
