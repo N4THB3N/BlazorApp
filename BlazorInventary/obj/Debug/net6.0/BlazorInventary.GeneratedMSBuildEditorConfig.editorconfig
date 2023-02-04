@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorInventary
+build_property.RootNamespace = BlazorInventary
+build_property.ProjectDir = E:\Temp\ncastaneda\Projects\BlazorInventary\BlazorInventary\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Temp\ncastaneda\Projects\BlazorInventary\BlazorInventary
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Categories/CategoriesListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yaWVzXENhdGVnb3JpZXNMaXN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Categories/CreateCategoryComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXRlZ29yaWVzXENyZWF0ZUNhdGVnb3J5Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Exercises/BlazorPages/Form001.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFeGVyY2lzZXNcQmxhem9yUGFnZXNcRm9ybTAwMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Exercises/Forms/Form002.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFeGVyY2lzZXNcRm9ybXNcRm9ybTAwMi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Products/CreateProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xDcmVhdGVQcm9kdWN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Products/ListProductsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xMaXN0UHJvZHVjdHNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Products/UpdateProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9kdWN0c1xVcGRhdGVQcm9kdWN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Components/Warehouses/ListWarehousesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXYXJlaG91c2VzXExpc3RXYXJlaG91c2VzQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/Categories/CreateCategoryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGVDYXRlZ29yeVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/Products/CreateProductPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlUHJvZHVjdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/Products/ListProductPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcTGlzdFByb2R1Y3RQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/Products/UpdateProductPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcVXBkYXRlUHJvZHVjdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-slytn51a56
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-tygi3b18sp
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Temp/ncastaneda/Projects/BlazorInventary/BlazorInventary/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

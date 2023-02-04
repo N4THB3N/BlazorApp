@@ -1,0 +1,17 @@
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\bin\Debug\net6.0\Bussiness.deps.json
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\bin\Debug\net6.0\Bussiness.dll
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\bin\Debug\net6.0\Bussiness.pdb
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\bin\Debug\net6.0\DataAccess.dll
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\bin\Debug\net6.0\Entities.dll
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\bin\Debug\net6.0\DataAccess.pdb
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\bin\Debug\net6.0\Entities.pdb
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.csproj.AssemblyReference.cache
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfoInputs.cache
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.AssemblyInfo.cs
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CoreCompileInputs.cache
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.csproj.CopyComplete
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.dll
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\refint\Bussiness.dll
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\Bussiness.pdb
+E:\Temp\ncastaneda\Projects\BlazorInventary\Bussiness\obj\Debug\net6.0\ref\Bussiness.dll
